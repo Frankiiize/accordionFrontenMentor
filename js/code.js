@@ -3,7 +3,7 @@ $(document).ready(function(){
     $(".content:not(:eq(0))").toggle();
     $(".arrow").toggleClass("arrowdonw");
     /* $(".title").css("color","#4a4b5e"); */
-
+    
 
     $(".title").click(function(){
         

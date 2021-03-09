@@ -153,7 +153,6 @@ body {
 }
 
 .container {
-  transform: scale(0.7);
   width: 90%;
   min-height: 764px;
   grid-template-columns: repeat(2, 50%);

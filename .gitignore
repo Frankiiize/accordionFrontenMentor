@@ -4,6 +4,8 @@
 ###############################################
 *.sketch
 style-guide.md
+styles.css.map
+stylesDesk.css.map
 sass/
 design/
 
