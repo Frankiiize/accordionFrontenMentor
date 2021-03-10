@@ -21,7 +21,7 @@ html {
 
 /* --------Icons------------ */
 .arrowdonw, .container__acordion__items__questions__icon, .arrowUP {
-  background-image: url("/images/icon-arrow-down.svg");
+  background-image: url("https://raw.githubusercontent.com/Frankiiize/accordionFrontenMentor/5eb2ebd1f06a7cde887014cc78edd82ae5ae7e1d/images/icon-arrow-down.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 15px;
