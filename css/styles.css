@@ -45,6 +45,7 @@ html {
 /* componente */
 body {
   width: 100%;
+  height: 100vh;
   background: linear-gradient(180deg, #af67e9 0%, #6565e7 100%);
 }
 
@@ -123,7 +124,7 @@ body {
   align-items: center;
   justify-content: space-between;
   margin-bottom: 15px;
-  color: #4a4b5e;
+  color: #787887;
   font-size: 1.2rem;
   font-weight: bold;
   text-decoration: none;
