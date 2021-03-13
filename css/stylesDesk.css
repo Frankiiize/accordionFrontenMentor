@@ -153,13 +153,14 @@ body {
 .container {
   width: 60%;
   min-height: 500px;
-  margin-top: 15%;
-  grid-template-columns: 40% 60%;
+  margin-top: 10%;
+  grid-template-columns: repeat(2, minmax(200px, 1fr));
   grid-template-rows: minmax(200px, 100%);
   grid-template-areas: "Hero questions";
   align-content: center;
   background-color: #FFF;
   border-radius: 30px;
+  justify-content: center;
 }
 .container__imgs {
   display: none;
